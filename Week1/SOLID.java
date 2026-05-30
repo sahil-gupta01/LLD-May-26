@@ -1,4 +1,4 @@
-// SOLID -> There are certain principles that we followin while code implementation
+// SOLID -> There are certain principles that we follow while code implementation
 // to make our code more maintainable, scalable and robust. These principles are:
 
 // 1.SRP -> Single Responsibility Principle
@@ -7,7 +7,7 @@
 // 4.ISP -> Interface Segregation Principle
 // 5.DIP -> Dependency Inversion Principle
 
-// SRP -> A class/block of code should have only one reason to changes. 
+// SRP -> A class/block of code should have only one reason to change. 
 // It should have only one responsibility. 
 // If there are multiple responsibilities then it becomes difficult to maintain the code and also it becomes difficult to understand the code.
 
