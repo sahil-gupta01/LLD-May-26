@@ -84,5 +84,3 @@ public class StrategyDemo {
 // We have two concrete implementations of the PaymentStrategy interface: CreditCardPayment and PayPalPayment.
 // The PaymentContext class uses a PaymentStrategy to execute the payment.
 // This allows the client to choose the payment method at runtime, demonstrating the flexibility and reusability of the Strategy Design Pattern.
-
-// Strategy Design Pattern is different from factory design pattern
